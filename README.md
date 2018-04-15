@@ -2,7 +2,7 @@
 
 This is a simple web extension that adds Tab and Shift + Tab indentation controls to Stack Overflow and Stack Exchange.
 
-The easiest way to install it is from the [Firefox](https://addons.mozilla.org/en-US/developers/addon/stack-overflow-indentation/) or [Chrome](https://chrome.google.com/webstore/detail/stack-overflow-and-stack/enmhejgjihfndjijalimdgiiielefgfo) add-on pages.
+The easiest way to install it is from the [Firefox](https://addons.mozilla.org/en-US/addon/stack-overflow-indentation/) or [Chrome](https://chrome.google.com/webstore/detail/stack-overflow-and-stack/enmhejgjihfndjijalimdgiiielefgfo) add-on pages.
 
 ***
 
