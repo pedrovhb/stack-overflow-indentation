@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: X+eSbJGs1tWGH/l1D36WGg==
+SHA1-Digest: SrmsN54WqBQvd1yNwJ7CzIaDM/Q=
+SHA256-Digest: YmrstWiafVO3TtesArJqcucXJgVZgqts1yDOroOjAlI=
+
+Name: soindentation.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: gGKMLe34VfqeldSw5/O76w==
+SHA1-Digest: nuwsUri5VWvjXFma0RyYtXfYRlo=
+SHA256-Digest: 7C3JlIl/+rZ1hFLzTOvt4h0DeToKKh/e/LMpnZ2IYvY=
+
+Name: icons/soindentation.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: tiS2CfwtOQR8gMS7e6ZC8g==
+SHA1-Digest: tgY2BL4ZJwmmaldr+u0RZhRb2vI=
+SHA256-Digest: f8mEyNzfjNKsaypU8E2WZh9eZzbQ4T158kv7p7wJVcM=
+
+Name: icons/soindentation_48.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: AKeKwS2LeaZGRRfCcyurJg==
+SHA1-Digest: hcdY+UKx4x7pmnrfgaY3PTdXnD8=
+SHA256-Digest: NpkpY1qKMjdw0TqQy85jEudjwK6eI9B7HfeMQdpaInA=
+
+Name: icons/soindentation_96.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GrcAnZn1Hrds6qFJnNpU7w==
+SHA1-Digest: JpQPgPd0IZPbLwEC14UczRsyTWw=
+SHA256-Digest: Nes1dYop4xw4gVL20mTidHC9sUnIj01wRAfwsyj9rS4=
+
